@@ -1,0 +1,9 @@
+{
+    "name": "Roll",
+    "description": "Roll a number or dice",
+    "version": "1.0",
+    "default_enable": ["Roll"],
+    "homepage": "https://plugins.thomas.host/",
+    "repo": "https://github.com/Thom7/Roll.git",
+    "branch": "master"
+}
